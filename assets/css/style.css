@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
 }
+
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+
 
 .header {
     min-height: 100vh;
@@ -11,4 +21,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+/* Logo for the website */
+
+#logo {
+    font-size: 300%;
+    font-family:Parisienne, sans-serif;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: whitesmoke;
+    float: left;
+
 }
