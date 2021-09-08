@@ -70,7 +70,16 @@ h1, h2, h3 {
     transition: 1s;
     
 }
-  
+
+/* Achievements styling */
+
+.achievements {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
 /* Logo styling */
 
 #logo {
