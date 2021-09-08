@@ -203,6 +203,10 @@ nav {
 
 /* footer styling */
 
+#footer-heading-text {
+    text-align: center;
+}
+
 .social-networks{
     text-align: center;
 
