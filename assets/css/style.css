@@ -71,6 +71,8 @@ h1, h2, h3 {
     
 }
 
+
+
 /* Achievements styling */
 
 .achievements {
@@ -162,6 +164,35 @@ nav {
 
 .icon {
     visibility: hidden;
+}
+
+/* sign up section styling */
+
+.sign-up {
+    margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/ali-lean.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 200px 0;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#s-up-heading {
+    padding-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 50%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
 }
 
 /* situational styling for smaller screen sizes (700px) */
